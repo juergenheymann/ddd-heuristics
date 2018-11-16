@@ -1,1 +1,5 @@
-Welcome to the DDD Heuristics site. This site is for the community, by the community. For now this is an experiment. For now it is still work in progress and are experimenting how to
+Welcome to the DDD Heuristics site. This site is for the community, by the community.
+
+Look at the [github](https://github.com/Baasie/ddd-heuristics) page for more information how to submit your own heuristics.
+
+# Heuristics

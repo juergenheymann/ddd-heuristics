@@ -1,1 +1,0 @@
-* [Align with Business Value](./align-with-business-value.md)

@@ -5,5 +5,6 @@ The p.o. will tell his story and the rest will write events.  Else the person wi
 Building a new product, so there is no current process
 ## tags
 ## Author
+Krisztina Hirth
 ## Submitter
 Kenny Baas-Schwegler
